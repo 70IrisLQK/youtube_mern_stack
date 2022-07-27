@@ -1,4 +1,4 @@
-<h4 align="center">Trung Hanh sales support system <a href="#" target="_blank">Trung Hanh App</a>.</h4>
+<h4 align="center">Video Sharing Website <a href="#" target="_blank">Video Sharing Website</a>.</h4>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
